@@ -1,11 +1,18 @@
 .foo{
   width: 100px;
   height: 100px;
-  background-color: red;
+  background: red;
+  color: white;
+  padding: 20px;
+  font-size: 18px;
+  font-weight: 900;
 }
+
 
 .foo_1{
   width: 100px;
   height: 100px;
-  background-color: red;
+  background: red;
+  margin-top: 100px;
+  padding-left: 120px;
 }
